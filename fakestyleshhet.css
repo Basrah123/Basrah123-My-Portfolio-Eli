@@ -1,0 +1,43 @@
+div.listone{
+    background-color: black;
+    color: black;
+    height: 100px;    
+    display: block;
+    justify-content: right;
+    text-align: right;
+    font-size: 30px;
+    display: inline;
+    margin-right: 1000px;
+    overflow-y: auto
+    
+}
+body{
+    background-image: url("imagespersonal/backgroundtrue.png");
+    margin: 160px; 
+}
+ul {
+    list-style-type: none;
+    margin: 50;
+    padding: 50;
+  }
+
+h1{
+    vertical-align: baseline;
+}
+#avatar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    justify-items: center;
+    display:flex
+
+
+}
+p{
+    font-size: 20px;
+    color:brown;
+    text-align: center;
+    text-align-last: center; 
+}
